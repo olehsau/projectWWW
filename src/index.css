@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.accordionTitle{
+  margin: 5px;
+  border: solid;
+  padding-left: 20px;
+  padding-right: 20px;
+  /*prevent select*/
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
+.accordion{
+  border: solid;
+}
+
+.main{
+  background-color: black;
+  color: white;
+}
