@@ -31,3 +31,71 @@ code {
   background-color: black;
   color: white;
 }
+
+.hello_field{
+  border: dashed;
+  background-color:azure;
+  border-color:darkblue;
+  border-width: 7px;
+  height: 1500px;
+  position: relative;
+}
+
+.man{
+  font-size: 128px;
+  margin-top: 200px;
+  text-align: center;
+}
+
+.cloud{
+  margin-left: 72%;
+  margin-right: 18%;
+  background-color:beige;
+  border-radius: 40px;
+}
+
+div.cloud{
+  height:50px;
+  text-align: center;
+  padding-top: 15px;
+  font-size: 22px;
+}
+
+.bee{
+  font-size: 60px;
+  padding-top: 200px;
+  position: absolute;
+  bottom: 150px;
+  padding-left: 50%;
+}
+
+.titleBack{
+  height: 600px;
+}
+
+.title{
+  font-family: "Arial Black";
+  font-size: 50px;
+  text-align: center;
+  padding-top: 200px;
+  color:chocolate;
+}
+
+.parallaxDescription{
+  font-family: "Arial Black";
+  font-size: 25px;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding-bottom: 100px; 
+}
+
+.rect{
+  background-color: aqua;
+  width: 200px;
+  height: 200px;
+}
+
+.banner{
+  height: 500px;
+}
